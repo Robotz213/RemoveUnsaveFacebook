@@ -49,4 +49,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-Para mais informações, entre em contato pelo email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+Para mais informações, entre em contato pelo email: [nichola@robotz.dev](mailto:nichola@robotz.dev)
